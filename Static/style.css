@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+    background-color: hsl(0, 100%, 99%);
+}
+h1{
+    text-align: center;
+    color: #000000;
+}
+
+h1{text-decoration: ;}
+input[type=""],
+
+form{
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: hsl(0, 0%, 100%)0%, 100%);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(161, 161, 161, 0.1);
+}
+
+label
+input{
+    display:block;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
